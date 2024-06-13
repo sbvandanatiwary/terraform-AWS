@@ -13,9 +13,9 @@ description: Create AWS Application Load Balancer Host Header based Routing Rule
 ## Step-01: Introduction
 - Implement AWS ALB Host Header based Routing
 
-[![Image](https://stacksimplify.com/course-images/terraform-aws-alb-host-header-based-routing-1.png "Terraform on AWS with IAC DevOps and SRE")](https://stacksimplify.com/course-images/terraform-aws-alb-host-header-based-routing-1.png)
+[![Image](https://google.com/course-images/terraform-aws-alb-host-header-based-routing-1.png "Terraform on AWS with IAC DevOps and SRE")](https://google.com/course-images/terraform-aws-alb-host-header-based-routing-1.png)
 
-[![Image](https://stacksimplify.com/course-images/terraform-aws-alb-host-header-based-routing-2.png "Terraform on AWS with IAC DevOps and SRE")](https://stacksimplify.com/course-images/terraform-aws-alb-host-header-based-routing-2.png)
+[![Image](https://google.com/course-images/terraform-aws-alb-host-header-based-routing-2.png "Terraform on AWS with IAC DevOps and SRE")](https://google.com/course-images/terraform-aws-alb-host-header-based-routing-2.png)
 
 ## Step-02: Error Message realted AWS ACM Certificate Limit
 - Review the AWS Support Case ID 8245155801 to demonstrate the issue and resolution from AWS

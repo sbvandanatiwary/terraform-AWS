@@ -13,11 +13,11 @@ description: Create CloudWatch Alarms for ASG, ALB, Synthetics, CIS Alarams
   - Implement a Heart Beat Monitor 
 
 
-[![Image](https://stacksimplify.com/course-images/terraform-aws-cloudwatch-1.png "Terraform on AWS with IAC DevOps and SRE")](https://stacksimplify.com/course-images/terraform-aws-cloudwatch-1.png)
+[![Image](https://google.com/course-images/terraform-aws-cloudwatch-1.png "Terraform on AWS with IAC DevOps and SRE")](https://google.com/course-images/terraform-aws-cloudwatch-1.png)
 
-[![Image](https://stacksimplify.com/course-images/terraform-aws-cloudwatch-2.png "Terraform on AWS with IAC DevOps and SRE")](https://stacksimplify.com/course-images/terraform-aws-cloudwatch-2.png)
+[![Image](https://google.com/course-images/terraform-aws-cloudwatch-2.png "Terraform on AWS with IAC DevOps and SRE")](https://google.com/course-images/terraform-aws-cloudwatch-2.png)
 
-[![Image](https://stacksimplify.com/course-images/terraform-aws-cloudwatch-3.png "Terraform on AWS with IAC DevOps and SRE")](https://stacksimplify.com/course-images/terraform-aws-cloudwatch-3.png)
+[![Image](https://google.com/course-images/terraform-aws-cloudwatch-3.png "Terraform on AWS with IAC DevOps and SRE")](https://google.com/course-images/terraform-aws-cloudwatch-3.png)
 
 ## Step-02: Copy all files from Section-15
 - Copy all the files from `15-Autoscaling-with-Launch-Templates\terraform-manifests` 
@@ -144,7 +144,7 @@ module "all_cis_alarms" {
 - Update your Application DNS Name
 ```t
 # Before 
-    const urls = ['https://stacksimplify.com'];
+    const urls = ['https://google.com'];
 
 # After 
     const urls = ['https://yourapp.com'];

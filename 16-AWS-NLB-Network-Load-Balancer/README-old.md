@@ -10,11 +10,11 @@ description: Create AWS Network Load Balancer with Terraform - Demo for both TCP
 - Create TLS Listener
 - Create Target Group
 
-[![Image](https://stacksimplify.com/course-images/terraform-aws-nlb-network-loadbalancer-1.png "Terraform on AWS with IAC DevOps and SRE")](https://stacksimplify.com/course-images/terraform-aws-nlb-network-loadbalancer-1.png)
+[![Image](https://google.com/course-images/terraform-aws-nlb-network-loadbalancer-1.png "Terraform on AWS with IAC DevOps and SRE")](https://google.com/course-images/terraform-aws-nlb-network-loadbalancer-1.png)
 
-[![Image](https://stacksimplify.com/course-images/terraform-aws-nlb-network-loadbalancer-2.png "Terraform on AWS with IAC DevOps and SRE")](https://stacksimplify.com/course-images/terraform-aws-nlb-network-loadbalancer-2.png)
+[![Image](https://google.com/course-images/terraform-aws-nlb-network-loadbalancer-2.png "Terraform on AWS with IAC DevOps and SRE")](https://google.com/course-images/terraform-aws-nlb-network-loadbalancer-2.png)
 
-[![Image](https://stacksimplify.com/course-images/terraform-aws-nlb-network-loadbalancer-3.png "Terraform on AWS with IAC DevOps and SRE")](https://stacksimplify.com/course-images/terraform-aws-nlb-network-loadbalancer-3.png)
+[![Image](https://google.com/course-images/terraform-aws-nlb-network-loadbalancer-3.png "Terraform on AWS with IAC DevOps and SRE")](https://google.com/course-images/terraform-aws-nlb-network-loadbalancer-3.png)
 
 ## Step-02: c5-04-securitygroup-privatesg.tf
 - NLB requires private security group EC2 Instances to have the `ingress_cidr_blocks` as `0.0.0.0/0`

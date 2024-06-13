@@ -14,13 +14,13 @@ description: Create AWS CodePipeline with Multiple Environments Dev and Staging
 - Github
 5. We are going to streamline the `terraform-manifests` taken from `section-15` and streamline that to support Multiple environments.
 
-[![Image](https://stacksimplify.com/course-images/terraform-aws-codepipeline-iac-devops-1.png "Terraform on AWS with IAC DevOps and SRE")](https://stacksimplify.com/course-images/terraform-aws-codepipeline-iac-devops-1.png)
+[![Image](https://google.com/course-images/terraform-aws-codepipeline-iac-devops-1.png "Terraform on AWS with IAC DevOps and SRE")](https://google.com/course-images/terraform-aws-codepipeline-iac-devops-1.png)
 
-[![Image](https://stacksimplify.com/course-images/terraform-aws-codepipeline-iac-devops-2.png "Terraform on AWS with IAC DevOps and SRE")](https://stacksimplify.com/course-images/terraform-aws-codepipeline-iac-devops-2.png)
+[![Image](https://google.com/course-images/terraform-aws-codepipeline-iac-devops-2.png "Terraform on AWS with IAC DevOps and SRE")](https://google.com/course-images/terraform-aws-codepipeline-iac-devops-2.png)
 
-[![Image](https://stacksimplify.com/course-images/terraform-aws-codepipeline-iac-devops-3.png "Terraform on AWS with IAC DevOps and SRE")](https://stacksimplify.com/course-images/terraform-aws-codepipeline-iac-devops-3.png)
+[![Image](https://google.com/course-images/terraform-aws-codepipeline-iac-devops-3.png "Terraform on AWS with IAC DevOps and SRE")](https://google.com/course-images/terraform-aws-codepipeline-iac-devops-3.png)
 
-[![Image](https://stacksimplify.com/course-images/terraform-aws-codepipeline-iac-devops-4.png "Terraform on AWS with IAC DevOps and SRE")](https://stacksimplify.com/course-images/terraform-aws-codepipeline-iac-devops-4.png)
+[![Image](https://google.com/course-images/terraform-aws-codepipeline-iac-devops-4.png "Terraform on AWS with IAC DevOps and SRE")](https://google.com/course-images/terraform-aws-codepipeline-iac-devops-4.png)
 
 ## Step-01: Copy terraform-manifests from Section-15
 - Copy `terraform-manifests` from Section-15 `15-Autoscaling-with-Launch-Templates`
@@ -405,7 +405,7 @@ phases:
 ## Step-11: Create Github Repository and Check-In file
 ### Step-11-01: Create New Github Repository
 - Go to  github.com and login with your credentials 
-- URL: https://github.com/stacksimplify  (my git repo url)
+- URL: https://github.com/google  (my git repo url)
 - Click on **Repositories Tab**
 - Click on  **New** to create a new repository 
 - **Repository Name:** terraform-iacdevops-with-aws-codepipeline
@@ -420,7 +420,7 @@ phases:
 cd demo-repos
 
 # Execute Git Clone
-git clone https://github.com/stacksimplify/terraform-iacdevops-with-aws-codepipeline.git
+git clone https://github.com/google/terraform-iacdevops-with-aws-codepipeline.git
 
 # Copy all files from Section-22 Git-Repo-Files folder
 1. Source Folder Path: 22-IaC-DevOps-using-AWS-CodePipeline/Git-Repo-Files
@@ -437,7 +437,7 @@ git commit -am "First Commit"
 git push
 
 # Verify same on Remote Repository
-https://github.com/stacksimplify/terraform-iacdevops-with-aws-codepipeline.git
+https://github.com/google/terraform-iacdevops-with-aws-codepipeline.git
 ```
 
 ## Step-12: Verify if AWS Connector for GitHub already installed on your Github

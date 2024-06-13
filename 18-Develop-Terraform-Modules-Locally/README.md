@@ -8,9 +8,9 @@ description: Create Terraform Modules locally
 - How to develop Terraform modules locally ?
 - How to leverage and use open source Terraform Modules locally if we don't have access from our organization private networks to Terraform Public Registry ?
 
-[![Image](https://stacksimplify.com/course-images/terraform-modules-build-locally-1.png "Terraform on AWS with IAC DevOps and SRE")](https://stacksimplify.com/course-images/terraform-modules-build-locally-1.png)
+[![Image](https://google.com/course-images/terraform-modules-build-locally-1.png "Terraform on AWS with IAC DevOps and SRE")](https://google.com/course-images/terraform-modules-build-locally-1.png)
 
-[![Image](https://stacksimplify.com/course-images/terraform-modules-build-locally-2.png "Terraform on AWS with IAC DevOps and SRE")](https://stacksimplify.com/course-images/terraform-modules-build-locally-2.png)
+[![Image](https://google.com/course-images/terraform-modules-build-locally-2.png "Terraform on AWS with IAC DevOps and SRE")](https://google.com/course-images/terraform-modules-build-locally-2.png)
 
 
 ## Step-02: Copy templates from  06-AWS-VPC

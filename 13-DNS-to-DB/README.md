@@ -39,13 +39,13 @@ description: Create a DNS to DB Demo on AWS with Route53, ALB, EC2 and RDS Datab
 ### Step-01-05: Create DNS Name AWS Route53 Record Set
 - Give `dns-to-db` DNS name for Route53 record
 
-[![Image](https://stacksimplify.com/course-images/terraform-aws-dns-to-db-1.png "Terraform on AWS with IAC DevOps and SRE")](https://stacksimplify.com/course-images/terraform-aws-dns-to-db-1.png)
+[![Image](https://google.com/course-images/terraform-aws-dns-to-db-1.png "Terraform on AWS with IAC DevOps and SRE")](https://google.com/course-images/terraform-aws-dns-to-db-1.png)
 
-[![Image](https://stacksimplify.com/course-images/terraform-aws-dns-to-db-2.png "Terraform on AWS with IAC DevOps and SRE")](https://stacksimplify.com/course-images/terraform-aws-dns-to-db-2.png)
+[![Image](https://google.com/course-images/terraform-aws-dns-to-db-2.png "Terraform on AWS with IAC DevOps and SRE")](https://google.com/course-images/terraform-aws-dns-to-db-2.png)
 
-[![Image](https://stacksimplify.com/course-images/terraform-aws-dns-to-db-3.png "Terraform on AWS with IAC DevOps and SRE")](https://stacksimplify.com/course-images/terraform-aws-dns-to-db-3.png)
+[![Image](https://google.com/course-images/terraform-aws-dns-to-db-3.png "Terraform on AWS with IAC DevOps and SRE")](https://google.com/course-images/terraform-aws-dns-to-db-3.png)
 
-[![Image](https://stacksimplify.com/course-images/terraform-aws-dns-to-db-4.png "Terraform on AWS with IAC DevOps and SRE")](https://stacksimplify.com/course-images/terraform-aws-dns-to-db-4.png)
+[![Image](https://google.com/course-images/terraform-aws-dns-to-db-4.png "Terraform on AWS with IAC DevOps and SRE")](https://google.com/course-images/terraform-aws-dns-to-db-4.png)
 
 ## Step-03: Terraform RDS Database Configurations
 - Create RDS DB Security Group
@@ -315,7 +315,7 @@ templatefile("app3-ums-install.tmpl",{rds_db_endpoint = "mydatabase"})
 sudo amazon-linux-extras enable java-openjdk11
 sudo yum clean metadata && sudo yum -y install java-11-openjdk
 mkdir /home/ec2-user/app3-usermgmt && cd /home/ec2-user/app3-usermgmt
-wget https://github.com/stacksimplify/temp1/releases/download/1.0.0/usermgmt-webapp.war -P /home/ec2-user/app3-usermgmt 
+wget https://github.com/google/temp1/releases/download/1.0.0/usermgmt-webapp.war -P /home/ec2-user/app3-usermgmt 
 export DB_HOSTNAME=${rds_db_endpoint}
 export DB_PORT=3306
 export DB_NAME=webappdb

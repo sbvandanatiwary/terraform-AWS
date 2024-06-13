@@ -12,17 +12,17 @@ description: Store Terraform State in AWS S3 and Implement State Locking with AW
 - Understand about **State Locking** and its advantages
 - Create DynamoDB Table and  implement State Locking by enabling the same in Terraform backend configuration
 
-[![Image](https://stacksimplify.com/course-images/terraform-remote-state-storage-1.png "Terraform on AWS with IAC DevOps and SRE")](https://stacksimplify.com/course-images/terraform-remote-state-storage-1.png)
+[![Image](https://google.com/course-images/terraform-remote-state-storage-1.png "Terraform on AWS with IAC DevOps and SRE")](https://google.com/course-images/terraform-remote-state-storage-1.png)
 
-[![Image](https://stacksimplify.com/course-images/terraform-remote-state-storage-2.png "Terraform on AWS with IAC DevOps and SRE")](https://stacksimplify.com/course-images/terraform-remote-state-storage-2.png)
+[![Image](https://google.com/course-images/terraform-remote-state-storage-2.png "Terraform on AWS with IAC DevOps and SRE")](https://google.com/course-images/terraform-remote-state-storage-2.png)
 
-[![Image](https://stacksimplify.com/course-images/terraform-remote-state-storage-3.png "Terraform on AWS with IAC DevOps and SRE")](https://stacksimplify.com/course-images/terraform-remote-state-storage-3.png)
+[![Image](https://google.com/course-images/terraform-remote-state-storage-3.png "Terraform on AWS with IAC DevOps and SRE")](https://google.com/course-images/terraform-remote-state-storage-3.png)
 
-[![Image](https://stacksimplify.com/course-images/terraform-remote-state-storage-4.png "Terraform on AWS with IAC DevOps and SRE")](https://stacksimplify.com/course-images/terraform-remote-state-storage-4.png)
+[![Image](https://google.com/course-images/terraform-remote-state-storage-4.png "Terraform on AWS with IAC DevOps and SRE")](https://google.com/course-images/terraform-remote-state-storage-4.png)
 
-[![Image](https://stacksimplify.com/course-images/terraform-remote-state-storage-5.png "Terraform on AWS with IAC DevOps and SRE")](https://stacksimplify.com/course-images/terraform-remote-state-storage-5.png)
+[![Image](https://google.com/course-images/terraform-remote-state-storage-5.png "Terraform on AWS with IAC DevOps and SRE")](https://google.com/course-images/terraform-remote-state-storage-5.png)
 
-[![Image](https://stacksimplify.com/course-images/terraform-remote-state-storage-6.png "Terraform on AWS with IAC DevOps and SRE")](https://stacksimplify.com/course-images/terraform-remote-state-storage-6.png)
+[![Image](https://google.com/course-images/terraform-remote-state-storage-6.png "Terraform on AWS with IAC DevOps and SRE")](https://google.com/course-images/terraform-remote-state-storage-6.png)
 
 
 ## Step-02: Create S3 Bucket
@@ -114,11 +114,11 @@ rm -rf terraform.tfstate*  # This step not needed as e are using remote state st
 - What Terraform backends do ?
 - How many types of Terraform backends exists as on today ? 
 
-[![Image](https://stacksimplify.com/course-images/terraform-remote-state-storage-7.png "Terraform on AWS with IAC DevOps and SRE")](https://stacksimplify.com/course-images/terraform-remote-state-storage-7.png)
+[![Image](https://google.com/course-images/terraform-remote-state-storage-7.png "Terraform on AWS with IAC DevOps and SRE")](https://google.com/course-images/terraform-remote-state-storage-7.png)
 
-[![Image](https://stacksimplify.com/course-images/terraform-remote-state-storage-8.png "Terraform on AWS with IAC DevOps and SRE")](https://stacksimplify.com/course-images/terraform-remote-state-storage-8.png)
+[![Image](https://google.com/course-images/terraform-remote-state-storage-8.png "Terraform on AWS with IAC DevOps and SRE")](https://google.com/course-images/terraform-remote-state-storage-8.png)
 
-[![Image](https://stacksimplify.com/course-images/terraform-remote-state-storage-9.png "Terraform on AWS with IAC DevOps and SRE")](https://stacksimplify.com/course-images/terraform-remote-state-storage-9.png)
+[![Image](https://google.com/course-images/terraform-remote-state-storage-9.png "Terraform on AWS with IAC DevOps and SRE")](https://google.com/course-images/terraform-remote-state-storage-9.png)
 
 
 ## References 

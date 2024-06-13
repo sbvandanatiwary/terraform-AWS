@@ -10,11 +10,11 @@ description: Create AWS Autoscaling with Launch Templates using Terraform
   - Autoscaling Notifications
   - Autoscaling Scheduled Actions
   - Autoscaling Target Tracking Scaling Policies (TTSP)
-[![Image](https://stacksimplify.com/course-images/terraform-aws-autoscaling-launch-template-1.png "Terraform on AWS with IAC DevOps and SRE")](https://stacksimplify.com/course-images/terraform-aws-autoscaling-launch-template-1.png)
+[![Image](https://google.com/course-images/terraform-aws-autoscaling-launch-template-1.png "Terraform on AWS with IAC DevOps and SRE")](https://google.com/course-images/terraform-aws-autoscaling-launch-template-1.png)
 
-[![Image](https://stacksimplify.com/course-images/terraform-aws-autoscaling-launch-template-2.png "Terraform on AWS with IAC DevOps and SRE")](https://stacksimplify.com/course-images/terraform-aws-autoscaling-launch-template-2.png)
+[![Image](https://google.com/course-images/terraform-aws-autoscaling-launch-template-2.png "Terraform on AWS with IAC DevOps and SRE")](https://google.com/course-images/terraform-aws-autoscaling-launch-template-2.png)
 
-[![Image](https://stacksimplify.com/course-images/terraform-aws-autoscaling-launch-template-3.png "Terraform on AWS with IAC DevOps and SRE")](https://stacksimplify.com/course-images/terraform-aws-autoscaling-launch-template-3.png)
+[![Image](https://google.com/course-images/terraform-aws-autoscaling-launch-template-3.png "Terraform on AWS with IAC DevOps and SRE")](https://google.com/course-images/terraform-aws-autoscaling-launch-template-3.png)
 
 ## Step-01: Create Launch Templates Manually to Understand more
 - Create Launch templates manually
@@ -155,7 +155,7 @@ resource "aws_sns_topic" "myasg_sns_topic" {
 resource "aws_sns_topic_subscription" "myasg_sns_topic_subscription" {
   topic_arn = aws_sns_topic.myasg_sns_topic.arn
   protocol  = "email"
-  endpoint  = "stacksimplify@gmail.com"
+  endpoint  = "google@gmail.com"
 }
 
 ## Create Autoscaling Notification Resource

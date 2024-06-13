@@ -7,19 +7,19 @@ description: Terraform Remote State Datasource Demo with two projects
 - Understand [Terraform Remote State Storage](https://www.terraform.io/docs/language/state/remote-state-data.html)
 - Terraform Remote State Storage Demo with two projects
 
-[![Image](https://stacksimplify.com/course-images/terraform-remote-state-datasource-1.png "Terraform on AWS with IAC DevOps and SRE")](https://stacksimplify.com/course-images/terraform-remote-state-datasource-1.png)
+[![Image](https://google.com/course-images/terraform-remote-state-datasource-1.png "Terraform on AWS with IAC DevOps and SRE")](https://google.com/course-images/terraform-remote-state-datasource-1.png)
 
-[![Image](https://stacksimplify.com/course-images/terraform-remote-state-datasource-2.png "Terraform on AWS with IAC DevOps and SRE")](https://stacksimplify.com/course-images/terraform-remote-state-datasource-2.png)
+[![Image](https://google.com/course-images/terraform-remote-state-datasource-2.png "Terraform on AWS with IAC DevOps and SRE")](https://google.com/course-images/terraform-remote-state-datasource-2.png)
 
-[![Image](https://stacksimplify.com/course-images/terraform-remote-state-datasource-3.png "Terraform on AWS with IAC DevOps and SRE")](https://stacksimplify.com/course-images/terraform-remote-state-datasource-3.png)
+[![Image](https://google.com/course-images/terraform-remote-state-datasource-3.png "Terraform on AWS with IAC DevOps and SRE")](https://google.com/course-images/terraform-remote-state-datasource-3.png)
 
-[![Image](https://stacksimplify.com/course-images/terraform-remote-state-datasource-4.png "Terraform on AWS with IAC DevOps and SRE")](https://stacksimplify.com/course-images/terraform-remote-state-datasource-4.png)
+[![Image](https://google.com/course-images/terraform-remote-state-datasource-4.png "Terraform on AWS with IAC DevOps and SRE")](https://google.com/course-images/terraform-remote-state-datasource-4.png)
 
-[![Image](https://stacksimplify.com/course-images/terraform-remote-state-datasource-5.png "Terraform on AWS with IAC DevOps and SRE")](https://stacksimplify.com/course-images/terraform-remote-state-datasource-5.png)
+[![Image](https://google.com/course-images/terraform-remote-state-datasource-5.png "Terraform on AWS with IAC DevOps and SRE")](https://google.com/course-images/terraform-remote-state-datasource-5.png)
 
-[![Image](https://stacksimplify.com/course-images/terraform-remote-state-datasource-6.png "Terraform on AWS with IAC DevOps and SRE")](https://stacksimplify.com/course-images/terraform-remote-state-datasource-6.png)
+[![Image](https://google.com/course-images/terraform-remote-state-datasource-6.png "Terraform on AWS with IAC DevOps and SRE")](https://google.com/course-images/terraform-remote-state-datasource-6.png)
 
-[![Image](https://stacksimplify.com/course-images/terraform-remote-state-datasource-7.png "Terraform on AWS with IAC DevOps and SRE")](https://stacksimplify.com/course-images/terraform-remote-state-datasource-7.png)
+[![Image](https://google.com/course-images/terraform-remote-state-datasource-7.png "Terraform on AWS with IAC DevOps and SRE")](https://google.com/course-images/terraform-remote-state-datasource-7.png)
 
 ## Step-02: Copy Project 1 VPC from Section 19
 - Copy `project-1-aws-vpc` from `19-Remote-State-Storage-with-AWS-S3-and-DynamoDB`
